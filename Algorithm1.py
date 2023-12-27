@@ -15,4 +15,4 @@ print(greet)
 def print_string(input_string):
     print(input_string)
 #call the function with ex3 variable
-print(greet)
+print_string(greet)
